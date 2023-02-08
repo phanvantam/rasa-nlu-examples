@@ -29,7 +29,7 @@ thai_deps = [
 ]
 
 fasttext_deps = [
-    "fasttext~=0.9.2",
+    "fasttext>=0.9.2",
 ]
 
 flashtext_deps = [
