@@ -33,7 +33,7 @@ fasttext_deps = [
 ]
 
 flashtext_deps = [
-    "flashtext==2.7",
+    "flashtext>=2.7",
 ]
 
 dateparser_deps = [
